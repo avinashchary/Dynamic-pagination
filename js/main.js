@@ -6,7 +6,7 @@
 		var tr = tbody.querySelectorAll("tr");
 		var emptyBox = [];
 		var index = 1;
-		var itemPerPage = 8;
+		var itemPerPage = 4;
 
 		for(let i=0; i<tr.length; i++){ emptyBox.push(tr[i]);}
 
